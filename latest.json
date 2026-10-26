@@ -1,0 +1,9 @@
+{
+  "versionCode": 35,
+  "versionName": "1.9.0",
+  "apk": "Lounge-1.9.0.apk",
+  "sha256": "5c268908b10534200d8ed54e1c5a6932e3674e5649f43b66d3c3b7e1911c5a20",
+  "notes": "Smoother scrolling, Back returns you to the film you opened, Home starts on everyday channels instead of Prime, and Talk to Claude no longer crashes.\nThe remote's mic now opens Talk to Claude inside Lounge: the first time, choose Talk to Claude in Lounge and Always.",
+  "profile": "Lounge-1.9.0.dm",
+  "profileSha256": "abbf26727c3997da644bcbf95c858922d0dcd965f6f2937ca0bb2873040cddf9"
+}
